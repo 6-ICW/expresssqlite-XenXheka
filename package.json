@@ -1,0 +1,17 @@
+{
+  "name": "001-nodewebserverles",
+  "version": "1.0.0",
+  "description": "mijn eerste webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eersteLes"
+  ],
+  "author": "mijzelf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
